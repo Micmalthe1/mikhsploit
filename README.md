@@ -11,7 +11,7 @@ Download mikhsploit.rbxl and go in config script, put your names in.
 
 ```lua
 local admins = {
-	"user1",
+"user1",
     "user2"
 }
 ```
